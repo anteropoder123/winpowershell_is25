@@ -1,0 +1,14 @@
+1. Mis on powershell
+Windows kasutajaliides, kus saab käivitada automatiseerimiseks skripte, mis sisaldavad cmdlet'e
+
+2. Mis on cmdlet
+Powershelli käsk, mille abil saab toiminguid teha
+
+3.Mis on muutujad (Variable)
+Täht või tähed, mille ees on $ märk. Need salvestavad enda sisse väärtusi, mida saab skriptid korduvalt kasutada
+
+4. Mis on andmetüübid powershellis (Data Types in PowerShell)
+Powershellis on 5 andmetüüpi (Integer, Floating point, String, Boolean, DateTime). Kõik tähed ja numbrid kuuluvad kindla andmetüübi alla.
+
+5. Mis on massiivid (Arrays)
+Listid, mis sisaldavad mitmeid väärtusi. Neid väärtusi hakatakse lugema index 0-ist.
